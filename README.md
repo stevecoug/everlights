@@ -1,7 +1,7 @@
 # Everlights
 Control the Everlights permanent Christmas lights with this little PHP app. I was going to split it out into the class and the app, but honestly, I'm just too lazy. It's a tiny program, and I wanted to be able to move it around easily.
 
-I'd gladly accept pull requests if someone wants to separate out the class, app, and config.
+I'll gladly accept pull requests if someone feels the urge to separate out the class, app, and config.
 
 ## Usage
 It accepts one argument, which is either "off" or one of the defined sequences.
